@@ -2,7 +2,8 @@
 
 无缝为Activity、Fragment、任何View设置等待（loading)、重试(retry)、无数据(empty)页面。
 
-
+## Update
+    * 目录结构变更，gradle升级到2.3.1
 ## How to Use
 
 如果多个页面共享加载和重试页面，建议全局设置个基本的。比如在Application中：
